@@ -1,6 +1,6 @@
 # Aos Fatos Spider
 
-Este projeto contém um spider Scrapy chamado `AosfatosspiderSpider`, desenvolvido para rastrear e extrair informações de checagem de fatos do site "Aos Fatos". O objetivo principal é analisar o impacto da desinformação nos direitos difusos como parte de um estudo preliminar financiado pelo Fundo de Direitos Difusos (FDD).
+Este projeto contém um spider Scrapy chamado `AosfatosspiderSpider`, desenvolvido para rastrear e extrair informações do site "Aos Fatos". O objetivo principal é analisar o impacto da desinformação nos direitos difusos como parte de um estudo preliminar financiado pelo Fundo de Direitos Difusos (FDD).
 
 ## O que é o Fundo de Direitos Difusos (FDD)?
 
@@ -19,9 +19,6 @@ O projeto consiste nos seguintes arquivos principais:
 
 Além disso, o projeto inclui todos os arquivos típicos de um projeto Scrapy, como `items.py`, `middlewares.py`, `settings.py`, entre outros.
 
-## Uso
-
-O uso deste programa é restrito ao criador, Douglas da Silva Ferreira. Qualquer reprodução, modificação ou distribuição não autorizada é proibida.
 
 ## Dependências
 
@@ -66,7 +63,7 @@ Define-se a classe `AosfatosspiderSpider`, que herda de `scrapy.Spider`. Esta cl
 - O spider inicia na página principal de checagem de fatos, extrai links de notícias, navega por essas notícias, extrai dados detalhados de cada notícia e segue para a próxima página de resultados.
 - Durante a extração detalhada, o spider identifica e formata o conteúdo dos parágrafos, verificando a presença de padrões específicos antes de extrair os dados finais.
 - Todos os dados extraídos são organizados e retornados na forma de itens estruturados, prontos para serem processados e armazenados.
-- **Depois de instaladas as dependências, é só executar "scrapy crawl aosfatosspider -O nome_do_arquivo.xlsx"**
+- **Depois de instaladas as dependências, é só executar "scrapy crawl aosfatosspider -O nome_do_arquivo.xlsx"**, certificando-se de que está na pasta do scraper.
   
 ## Licença
 
