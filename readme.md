@@ -67,24 +67,23 @@ Define-se a classe `AosfatosspiderSpider`, que herda de `scrapy.Spider`. Esta cl
   
 ## Licença
 
-### MIT License
+**Copyleft License**
 
-© 2024 Douglas da Silva Ferreira
+This software is licensed under the terms of the GNU General Public License v3.0. By using, modifying, or distributing this software, you agree to the terms and conditions of this license.
+Terms and Conditions for Copying, Distribution, and Modification
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    Source Code: The "source code" for a work means the preferred form of the work for making modifications to it. "Object code" means any non-source form of a work.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    Basic Permissions: You may copy and distribute verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License applies to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    Conveying Modified Source Versions: You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 2, provided that you also meet all of these conditions:
+        The work must carry prominent notices stating that you modified it, and giving a relevant date.
+        The work must carry prominent notices stating that it is released under this License.
+        You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.
+
+    Conveying Non-Source Forms: You may convey the object code of a work under the terms of sections 1 and 2, provided that you also convey the machine-readable Corresponding Source under the terms of this License.
+
+    No Surrender of Others' Freedom: You are not responsible for enforcing compliance by third parties with this License.
+
+    Revised Versions of this License: The Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time. Each version is given a distinguishing version number. If the Program specifies that a certain numbered version of the GNU General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by the Free Software Foundation.
+
